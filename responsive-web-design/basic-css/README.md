@@ -111,6 +111,14 @@
 |Orquídea |rgb(218, 112, 214) |
 |Sienna   |rgb(160, 82, 45)   |
 
+```
+rgba significa:
+  r = vermelho
+  g = verde
+  b = azul
+  a = alfa / nível de opacidade
+```
+
 ---
 
 ### Variável CSS personalizada

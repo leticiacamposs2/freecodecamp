@@ -4,8 +4,8 @@
 - [x] Create Visual Balance Using the text-align Property
 - [x] Adjust the Width of an Element Using the width Property
 - [x] Use the strong Tag to Make Text Bold
-- [ ] Use the u Tag to Underline Text
-- [ ] Use the em Tag to Italicize Text
+- [x] Use the u Tag to Underline Text
+- [x] Use the em Tag to Italicize Text
 - [ ] Use the s Tag to Strikethrough Text
 - [ ] Create a Horizontal Line Using the hr Element
 - [ ] Adjust the background-color Property of Text
