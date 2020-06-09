@@ -22,13 +22,13 @@
 - [x] Add Different Padding to Each Side of an Element
 - [x] Add Different Margins to Each Side of an Element
 - [x] Use Clockwise Notation to Specify the Padding of an Element
-- [ ] Use Clockwise Notation to Specify the Margin of an Element
-- [ ] Use Attribute Selectors to Style Elements
-- [ ] Understand Absolute versus Relative Units
-- [ ] Style the HTML Body Element
-- [ ] Inherit Styles from the Body Element
-- [ ] Prioritize One Style Over Another
-- [ ] Override Styles in Subsequent CSS
+- [x] Use Clockwise Notation to Specify the Margin of an Element
+- [x] Use Attribute Selectors to Style Elements
+- [x] Understand Absolute versus Relative Units
+- [x] Style the HTML Body Element
+- [x] Inherit Styles from the Body Element
+- [x] Prioritize One Style Over Another
+- [x] Override Styles in Subsequent CSS
 - [ ] Override Class Declarations by Styling ID Attributes
 - [ ] Override Class Declarations with Inline Styles
 - [ ] Override All Other Styles by using Important
@@ -55,3 +55,17 @@
 - Um elemento `margin` controla a quantidade de espaço entre um elemento `border`e os elementos circundantes.
 
 ![Margin and Padding](./imgs/margin-padding.png)
+
+- Seletor de atributos exemplos:
+
+```
+[type='radio'] {
+  margin: 20px 0px 20px 0px;
+}
+```
+
+- Pixels `px` são um tipo de unidade de comprimento, que é o que informa ao navegador como dimensionar ou espaçar um item. 
+- Os dois principais tipos de unidades de comprimento são absolutos e relativos.
+- As unidades absolutas estão vinculadas às unidades físicas de comprimento. Por exemplo, `in` e `mm` consulte polegadas e milímetros, respectivamente.
+- Unidades relativas, como `em` ou `rem`, são relativas a outro valor de comprimento. Por exemplo, `em` é baseado no tamanho da fonte de um elemento.
+
