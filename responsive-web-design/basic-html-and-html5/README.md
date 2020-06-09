@@ -11,23 +11,23 @@
 - [x] Add Images to Your Website
 - [x] Link to External Pages with Anchor Elements
 - [x] Link to Internal Sections of a Page with Anchor Elements
-- [ ] Nest an Anchor Element within a Paragraph
-- [ ] Make Dead Links Using the Hash Symbol
-- [ ] Turn an Image into a Link
-- [ ] Create a Bulleted Unordered List
-- [ ] Create an Ordered List
-- [ ] Create a Text Field
-- [ ] Add Placeholder Text to a Text Field
-- [ ] Create a Form Element
-- [ ] Add a Submit Button to a Form
-- [ ] Use HTML5 to Require a Field
-- [ ] Create a Set of Radio Buttons
-- [ ] Create a Set of Checkboxes
-- [ ] Use the value attribute with Radio Buttons and Checkboxes
-- [ ] Check Radio Buttons and Checkboxes by Default
-- [ ] Nest Many Elements within a Single div Element
-- [ ] Declare the Doctype of an HTML Document
-- [ ] Define the Head and Body of an HTML Document
+- [x] Nest an Anchor Element within a Paragraph
+- [x] Make Dead Links Using the Hash Symbol
+- [x] Turn an Image into a Link
+- [x] Create a Bulleted Unordered List
+- [x] Create an Ordered List
+- [x] Create a Text Field
+- [x] Add Placeholder Text to a Text Field
+- [x] Create a Form Element
+- [x] Add a Submit Button to a Form
+- [x] Use HTML5 to Require a Field
+- [x] Create a Set of Radio Buttons
+- [x] Create a Set of Checkboxes
+- [x] Use the value attribute with Radio Buttons and Checkboxes
+- [x] Check Radio Buttons and Checkboxes by Default
+- [x] Nest Many Elements within a Single div Element
+- [x] Declare the Doctype of an HTML Document
+- [x] Define the Head and Body of an HTML Document
 
 ---
 
