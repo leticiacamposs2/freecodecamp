@@ -29,22 +29,22 @@
 - [x] Inherit Styles from the Body Element
 - [x] Prioritize One Style Over Another
 - [x] Override Styles in Subsequent CSS
-- [ ] Override Class Declarations by Styling ID Attributes
-- [ ] Override Class Declarations with Inline Styles
-- [ ] Override All Other Styles by using Important
-- [ ] Use Hex Code for Specific Colors
-- [ ] Use Hex Code to Mix Colors
-- [ ] Use Abbreviated Hex Code
-- [ ] Use RGB values to Color Elements
-- [ ] Use RGB to Mix Colors
-- [ ] Use CSS Variables to change several elements at once
-- [ ] Create a custom CSS Variable
-- [ ] Use a custom CSS Variable
-- [ ] Attach a Fallback value to a CSS Variable
-- [ ] Improve Compatibility with Browser Fallbacks
-- [ ] Inherit CSS Variables
-- [ ] Change a variable for a specific area
-- [ ] Use a media query to change a variable
+- [x] Override Class Declarations by Styling ID Attributes
+- [x] Override Class Declarations with Inline Styles
+- [x] Override All Other Styles by using Important
+- [x] Use Hex Code for Specific Colors
+- [x] Use Hex Code to Mix Colors
+- [x] Use Abbreviated Hex Code
+- [x] Use RGB values to Color Elements
+- [x] Use RGB to Mix Colors
+- [x] Use CSS Variables to change several elements at once
+- [x] Create a custom CSS Variable
+- [x] Use a custom CSS Variable
+- [x] Attach a Fallback value to a CSS Variable
+- [x] Improve Compatibility with Browser Fallbacks
+- [x] Inherit CSS Variables
+- [x] Change a variable for a specific area
+- [x] Use a media query to change a variable
 
 ---
 
@@ -68,4 +68,66 @@
 - Os dois principais tipos de unidades de comprimento são absolutos e relativos.
 - As unidades absolutas estão vinculadas às unidades físicas de comprimento. Por exemplo, `in` e `mm` consulte polegadas e milímetros, respectivamente.
 - Unidades relativas, como `em` ou `rem`, são relativas a outro valor de comprimento. Por exemplo, `em` é baseado no tamanho da fonte de um elemento.
+
+
+- Em muitas situações, você usará bibliotecas CSS. Eles podem substituir acidentalmente seu próprio CSS. Portanto, quando você absolutamente precisa ter certeza de que um elemento possui CSS específico, pode usar `!important`
+
+---
+
+### Cores Hexadecimal
+
+    - Normal:
+
+|Cor      |Código Hex |
+|---------|-----------|
+|Azul     |#1E90FF    |
+|Verde    |#00FF00    |
+|Laranja  |#FFA500    |
+|Vermelho |#FF0000    |
+
+    - Reduzido:
+
+|Cor      |Código Hex |
+|---------|-----------|
+|Ciano    |#0FF       |
+|Verde    |#0F0       |
+|Vermelho |#F00       |
+|Fúcsia   |#F0F       |
+
+---
+
+### Valores RGB
+
+- Se você fizer as contas, os dois dígitos de uma cor são iguais a 16 vezes 16, o que nos dá 256 valores totais. Portanto RGB, que começa a contar do zero, tem exatamente o mesmo número de valores possíveis que o código hexadecimal.
+
+- O valor RGB para preto é assim: `rgb(0, 0, 0)`
+
+- O valor RGB para branco é assim: `rgb(255, 255, 255)`
+
+|Cor      |RGB                |
+|---------|-------------------|
+|Azul     |rgb(0, 0, 255)     |
+|Vermelho |rgb(255, 0, 0)     |
+|Orquídea |rgb(218, 112, 214) |
+|Sienna   |rgb(160, 82, 45)   |
+
+---
+
+### Variável CSS personalizada
+
+Para criar uma variável CSS, você só precisa dar um nome a ela com dois hífens na frente e atribuir um valor como este:
+
+```
+--penguin-skin: gray;
+
+background: var(--penguin-skin, black);
+```
+
+---
+
+### Root
+
+- Para fazer uso da herança, as variáveis ​​CSS são frequentemente definidas no elemento : `root`.
+
+- `:root`é um seletor de pseudo-classe que corresponde ao elemento raiz do documento, geralmente o htmlelemento Ao criar suas variáveis `:root`, elas estarão disponíveis globalmente e podem ser acessadas de qualquer outro seletor na folha de estilos.
 
