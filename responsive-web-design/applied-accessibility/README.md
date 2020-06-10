@@ -16,11 +16,11 @@ Ter conteúdo da web acessível é um desafio contínuo. Um ótimo recurso para 
 
 ### Aulas
 
-- [x] [Add a Text Alternative to Images for Visually Impaired Accessibility](./add-a-text-alternative-to-images-for-visually-impaired-accessibility.md)
-- [x] [Know When Alt Text Should be Left Blank](know-when-alt-text-should-be-left-blank.md)
-- [x] [Use Headings to Show Hierarchical Relationships of Content](use-headings-to-show-hierarchical-relationships-of-content.md)
-- [x] [Jump Straight to the Content Using the main Element](./jump-straight-to-the-content-using-the-main-element.md)
-- [x] [Wrap Content in the article Element](wrap-content-in-the-article-element.md)
+- [x] [Add a Text Alternative to Images for Visually Impaired Accessibility](./conteudo/add-a-text-alternative-to-images-for-visually-impaired-accessibility.md)
+- [x] [Know When Alt Text Should be Left Blank](./conteudo/know-when-alt-text-should-be-left-blank.md)
+- [x] [Use Headings to Show Hierarchical Relationships of Content](./conteudo/use-headings-to-show-hierarchical-relationships-of-content.md)
+- [x] [Jump Straight to the Content Using the main Element](./conteudo/jump-straight-to-the-content-using-the-main-element.md)
+- [x] [Wrap Content in the article Element](./conteudo/wrap-content-in-the-article-element.md)
 - [ ] Make Screen Reader Navigation Easier with the header Landmark
 - [ ] Make Screen Reader Navigation Easier with the nav Landmark
 - [ ] Make Screen Reader Navigation Easier with the footer Landmark
