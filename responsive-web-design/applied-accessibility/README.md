@@ -16,11 +16,11 @@ Ter conteúdo da web acessível é um desafio contínuo. Um ótimo recurso para 
 
 ### Aulas
 
-- [ ] Add a Text Alternative to Images for Visually Impaired Accessibility
-- [ ] Know When Alt Text Should be Left Blank
-- [ ] Use Headings to Show Hierarchical Relationships of Content
-- [ ] Jump Straight to the Content Using the main Element
-- [ ] Wrap Content in the article Element
+- [x] [Add a Text Alternative to Images for Visually Impaired Accessibility](./add-a-text-alternative-to-images-for-visually-impaired-accessibility.md)
+- [x] [Know When Alt Text Should be Left Blank](know-when-alt-text-should-be-left-blank.md)
+- [x] [Use Headings to Show Hierarchical Relationships of Content](use-headings-to-show-hierarchical-relationships-of-content.md)
+- [x] [Jump Straight to the Content Using the main Element](./jump-straight-to-the-content-using-the-main-element.md)
+- [x] [Wrap Content in the article Element](wrap-content-in-the-article-element.md)
 - [ ] Make Screen Reader Navigation Easier with the header Landmark
 - [ ] Make Screen Reader Navigation Easier with the nav Landmark
 - [ ] Make Screen Reader Navigation Easier with the footer Landmark
