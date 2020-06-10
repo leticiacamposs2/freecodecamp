@@ -21,12 +21,12 @@ Ter conteúdo da web acessível é um desafio contínuo. Um ótimo recurso para 
 - [x] [Use Headings to Show Hierarchical Relationships of Content](./conteudo/use-headings-to-show-hierarchical-relationships-of-content.md)
 - [x] [Jump Straight to the Content Using the main Element](./conteudo/jump-straight-to-the-content-using-the-main-element.md)
 - [x] [Wrap Content in the article Element](./conteudo/wrap-content-in-the-article-element.md)
-- [ ] Make Screen Reader Navigation Easier with the header Landmark
-- [ ] Make Screen Reader Navigation Easier with the nav Landmark
-- [ ] Make Screen Reader Navigation Easier with the footer Landmark
-- [ ] Improve Accessibility of Audio Content with the audio Element
-- [ ] Improve Chart Accessibility with the figure Element
-- [ ] Improve Form Field Accessibility with the label Element
+- [x] [Make Screen Reader Navigation Easier with the header Landmark](./conteudo/make-screen-reader-navigation-easier-with-the-header-landmark.md)
+- [x] [Make Screen Reader Navigation Easier with the nav Landmark](./conteudo/make-screen-reader-navigation-easier-with-the-nav-landmark.md)
+- [x] [Make Screen Reader Navigation Easier with the footer Landmark](./conteudo/make-screen-reader-navigation-easier-with-the-footer-landmark.md)
+- [x] [Improve Accessibility of Audio Content with the audio Element](./conteudo/improve-accessibility-of-audio-content-with-the-audio-element.md)
+- [x] [Improve Chart Accessibility with the figure Element](./conteudo/improve-chart-accessibility-with-the-figure-element.md)
+- [x] [Improve Form Field Accessibility with the label Element](./conteudo/improve-form-accessibility-with-the-label-element.md)
 - [ ] Wrap Radio Buttons in a fieldset Element for Better Accessibility
 - [ ] Add an Accessible Date Picker
 - [ ] Standardize Times with the HTML5 datetime Attribute
