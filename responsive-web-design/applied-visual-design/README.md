@@ -30,28 +30,28 @@
 - [x] Adjust the Color of Various Elements to Complementary Colors
 - [x] Adjust the Hue of a Color
 - [x] Adjust the Tone of a Color
-- [ ] Create a Gradual CSS Linear Gradient
-- [ ] Use a CSS Linear Gradient to Create a Striped Element
-- [ ] Create Texture by Adding a Subtle Pattern as a Background Image
-- [ ] Use the CSS Transform scale Property to Change the Size of an Element
-- [ ] Use the CSS Transform scale Property to Scale an Element on Hover
-- [ ] Use the CSS Transform Property skewX to Skew an Element Along the X-Axis
-- [ ] Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
-- [ ] Create a Graphic Using CSS
-- [ ] Create a More Complex Shape Using CSS and HTML
-- [ ] Learn How the CSS @keyframes and animation Properties Work
-- [ ] Use CSS Animation to Change the Hover State of a Button
-- [ ] Modify Fill Mode of an Animation
-- [ ] Create Movement Using CSS Animation
-- [ ] Create Visual Direction by Fading an Element from Left to Right
-- [ ] Animate Elements Continually Using an Infinite Animation Count
-- [ ] Make a CSS Heartbeat using an Infinite Animation Count
-- [ ] Animate Elements at Variable Rates
-- [ ] Animate Multiple Elements at Variable Rates
-- [ ] Change Animation Timing with Keywords
-- [ ] Learn How Bezier Curves Work
-- [ ] Use a Bezier Curve to Move a Graphic
-- [ ] Make Motion More Natural Using a Bezier Curve
+- [x] Create a Gradual CSS Linear Gradient
+- [x] Use a CSS Linear Gradient to Create a Striped Element
+- [x] Create Texture by Adding a Subtle Pattern as a Background Image
+- [x] Use the CSS Transform scale Property to Change the Size of an Element
+- [x] Use the CSS Transform scale Property to Scale an Element on Hover
+- [x] Use the CSS Transform Property skewX to Skew an Element Along the X-Axis
+- [x] Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
+- [x] Create a Graphic Using CSS
+- [x] Create a More Complex Shape Using CSS and HTML
+- [x] Learn How the CSS @keyframes and animation Properties Work
+- [x] Use CSS Animation to Change the Hover State of a Button
+- [x] Modify Fill Mode of an Animation
+- [x] Create Movement Using CSS Animation
+- [x] Create Visual Direction by Fading an Element from Left to Right
+- [x] Animate Elements Continually Using an Infinite Animation Count
+- [x] Make a CSS Heartbeat using an Infinite Animation Count
+- [x] Animate Elements at Variable Rates
+- [x] Animate Multiple Elements at Variable Rates
+- [x] Change Animation Timing with Keywords
+- [x] Learn How Bezier Curves Work
+- [x] Use a Bezier Curve to Move a Graphic
+- [x] Make Motion More Natural Using a Bezier Curve
 
 ---
 
@@ -86,3 +86,6 @@ verde	hsl (120, 100%, 50%)
 ciano	hsl (180, 100%, 50%)
 azul	hsl (240, 100%, 50%)
 magenta	hsl (300, 100%, 50%)
+
+- `box-shadow` propriedade tem valores para `offset-x`, `offset-y`, `blur-radius`, `spread-radiuse` um valor de cor nessa ordem. Os valores `blur-radius` e `spread-radius` são opcionais.
+
